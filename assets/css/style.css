@@ -174,7 +174,7 @@ section {
 .movies{
     position: relative;
     text-align: center;
-    top: -2px;
+    top: 0px;
     left: 240px;
     right: 25px;   
     width: 165px;
