@@ -3,7 +3,7 @@
 }
 
 header{
-    background:url(https://newevolutiondesigns.com/images/freebies/texture-wallpaper-4.jpg);
+    background-image:url(../images/background.jpg);
     
     font-family: 'Georgia', Times, Times New Roman, serif;
     padding: 25px;
@@ -133,7 +133,7 @@ section {
     
     position: relative;
     margin: center;
-    left: 2px;
+    left: -79px;
     right: -185;
     top: 70px;
     bottom: -177px;
@@ -145,7 +145,7 @@ section {
 .picsA2{
     position: relative;
     margin: center;
-    left: 194px;
+    left: 149px;
     bottom: -60px;
     border: 3px solid #73AD21;
     clear: both;
@@ -155,7 +155,7 @@ section {
 .picsA3{
     position: relative;
     margin: center;
-    left: 194px;
+    left: 149px;
     bottom: 440px;
     border: 3px solid #73AD21;
     clear: both;
@@ -164,7 +164,7 @@ section {
 
 .picsA4{
     position: relative;
-    left: 0px;
+    left: -79px;
     bottom: 451px;
     border: 3px solid #73AD21;
     clear: both;
@@ -175,7 +175,7 @@ section {
     position: relative;
     text-align: center;
     top: -2px;
-    left: 321px;
+    left: 240px;
     right: 25px;   
     width: 165px;
     height: 57px;
@@ -191,7 +191,7 @@ section {
     position: relative;
     text-align: center;
     top: -10px;
-    left: 513px;
+    left: 469px;
     right: 25px;   
     width: 165px;
     height: 57px;
@@ -206,7 +206,7 @@ section {
     position: relative;
     text-align: center;
     top: -512px;
-    left: 513px;
+    left: 469px;
     right: 25px;   
     width: 164px;
     height: 57px;
@@ -220,7 +220,7 @@ section {
     position: relative;
     text-align: center;
     top: -521px;
-    left: 319px;
+    left: 240px;
     right: 25px;   
     width: 164px;
     height: 57px;
